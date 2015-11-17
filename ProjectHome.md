@@ -1,0 +1,1 @@
+Chat: implementar seguridad con el algoritmos MD5 para encriptar información
